@@ -48,5 +48,9 @@
 .bigbrand{
     font-size: 1.5em;
 }
+.centerstage{
+    margin-left: auto;
+    margin-right: auto;
+}
 /*font-family: 'Oswald', sans-serif;*/
 /*font-family: 'Ubuntu', sans-serif;*/
